@@ -24,6 +24,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orlandoj77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right" src="https://github.com/Orlandoj77/Orlandoj77/blob/master/undraw_developer_activity_bv83.svg" alt="Illustration of AlienDev66" width=265px height=265px/>
-<img src="https://github-readme-stats.vercel.app/api?username=AlienDev66&show_icons=true" alt="AlienDev66-status" />
+<img src="https://github-readme-stats.vercel.app/api?username=AlienDev66&show_icons=true" alt="AlienDev66-status" />  
