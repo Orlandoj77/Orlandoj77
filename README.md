@@ -1,8 +1,4 @@
-# Orlando Manuel Jones
 
-
-[![Linkedin Badge](https://www.linkedin.com/in/orlando-jones-1403a619a/])
-[![Gmail Badge](https://mail.google.com/mail/u/0/#inbox)]
 <img align="right" src="https://github.com/AlienDev66/AlienDev66/blob/master/undraw_progressive_app_m9ms.svg" alt="Illustration of AlienDev66" width=465px height=465px/>
 
 
