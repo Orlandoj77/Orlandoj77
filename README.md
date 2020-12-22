@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning Reactjs e React native
 -->
 ## Overviewg
-![undraw_server_down_s4lk (1)](https://user-images.githubusercontent.com/65387600/102833791-645e9980-43f2-11eb-89d7-69d8e2372f4f.png)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
