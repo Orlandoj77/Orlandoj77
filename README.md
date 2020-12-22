@@ -1,5 +1,5 @@
 
-<img align="right" ![cherry-delete-confirmation-1](https://user-images.githubusercontent.com/65387600/102877009-563a6880-4446-11eb-92cb-c9387d23eb2c.png)" width=465px height=465px/>
+![cherry-delete-confirmation-1](https://user-images.githubusercontent.com/65387600/102877009-563a6880-4446-11eb-92cb-c9387d23eb2c.png)
 
 
 
