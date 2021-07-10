@@ -2,7 +2,7 @@
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.com/channels/790711900123562005/790711900123562007">
-  <img align="left" alt="Alien Space Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Orlando " width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/Dev7742406500">
   <img align="left" alt="Orlando | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -19,8 +19,8 @@
 <br />
 
 
-- 📫 How to reach me: [@alienshikadai66](https://twitter.com/AlienShikadai66);
-- 📝 [Resume](https://docs.google.com/document/d/1RS5syta56b2DaX64TlHX6I_kAV4X51_i-tOQ2c8q-_s/view)
+- 📫 How to reach me: [@Orlandoj77](https://twitter.com/Dev7742406500);
+- 📝 [Resume](https://docs.google.com/document/d/1n5VTW2Ebu3NCPHsdDPfsL68gxm4QYjR9UaP2IzuQ5dI/edit?usp=sharing)
 
 <img style="margin-right: 160px" align='right' src="https://media.giphy.com/media/TucS1JF3urHJI9mlGh/giphy.gif" width='220'>
 
