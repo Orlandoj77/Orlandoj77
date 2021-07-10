@@ -43,7 +43,10 @@
     <img  width="500" height="auto" alt="Wiliam's github stats" 
           src="https://github-readme-stats.vercel.app/api?username=Orlandoj77&show_icons=true&theme=react&count_private=true" />
   </a>
+   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orlandoj77&&layout=compact&hide=shell&theme=jolly"/>
+
 </p>
+
 
 
 **Languages and Tools:**  
