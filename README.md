@@ -60,7 +60,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
  ![Snake animation](https://github.com/Orlandoj77/Orlandoj77/blob/output/github-contribution-grid-snake.svg)
-<div width="100%"><img src="https://github-profile-trophy.vercel.app/?username=Orlandoj77&theme=flat&margin-w=15"><div/>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=Orlandoj77&margin-w=15&column=7&row=8" />
 
 
 
