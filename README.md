@@ -36,7 +36,7 @@
   - Atualmente trabalho com Javascript, Typescript, React (NextJS),  
  - Foco em React Native, UX, UI, Vuejs...;
 </p>
-
+<hr/>
 📈 My GitHub Stats
 <p>
   <a href="https://github.com/Orlandoj77?tab=repositories">
@@ -46,7 +46,6 @@
    <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orlandoj77&&layout=compact&hide=shell&theme=jolly"/>
 
 </p>
-
 
 
 **Languages and Tools:**  
@@ -61,6 +60,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
  ![Snake animation](https://github.com/Orlandoj77/Orlandoj77/blob/output/github-contribution-grid-snake.svg)
+<div width="100%"><img src="https://github-profile-trophy.vercel.app/?username=Orlandoj77&theme=flat&margin-w=15"><div/>
 
 
 
