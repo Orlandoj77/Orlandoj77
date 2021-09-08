@@ -15,9 +15,15 @@
 <img alt="Medium" src="https://img.shields.io/badge/Medium-3e3736?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 </p> 
+<div align = "center">
+<a href="https://github.com/Orlandoj77">
+  <img height="162px" src="https://github-readme-stats.vercel.app/api?username=Orlandoj77&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24&&title_color=020024&text_color=ffffff&icon_color=020024&bg_color=4,4169E1,C71585,00008B" /></a>  <!-- do primeiro para o ultimo -->
+<a href="https://github.com/Orlandoj77">
+  <img height="162px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orlandoj77&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&title_color=020024&text_color=ffffff&bg_color=1,00008B,C71585,4169E1" /></a>                   <!-- do ultimo para o primeiro -->
 
+</div>
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Orlandoj77&theme=radical&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Orlandoj77&theme=radical&show_icons=true" />  
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Orlandoj77&theme=radical&show_icons=true" />
 </div>
 
