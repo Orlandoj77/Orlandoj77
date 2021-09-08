@@ -27,7 +27,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Orlandoj77&theme=radical&show_icons=true" />
 </div>
 
-[![Raveena's github activity graph](https://activity-graph.herokuapp.com/graph?username=Orlandoj77&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)](https://github.com/Orlandoj77/github-readme-activity-graph)
+[![Raveena's github activity graph](https://activity-graph.herokuapp.com/graph?username=Orlandoj77&bg_color=000000&color=E30BF9&line=2fc8ee&point=ffffff&area=true&hide_border=true)](https://github.com/Orlandoj77/github-readme-activity-graph)
 <br>
 <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/Orlandoj77/count.svg" alt="Visitor Count" /></h2>
 <h3 align="center">Fuking Bug<img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="30"></h3>
